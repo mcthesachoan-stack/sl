@@ -1,0 +1,15 @@
+streamlit
+SpeechRecognition
+gTTS
+pandas
+google-genai
+pillow
+ultralytics
+scikit-learn
+fpdf2
+fpdf
+folium
+streamlit-folium
+streamlit-js-eval
+streamlit-autorefresh
+openpyxl
